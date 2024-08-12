@@ -1,4 +1,16 @@
 - commits:
+    - subject: Update linuxserver/nzbhydra2 Docker tag to v7.4.0
+      hash: d39c9773ad6f623e061b7a7afce158bfab81fa3b
+      body: ""
+      footer:
+        Change-type: minor
+        change-type: minor
+      author: Renovate Bot
+      nested: []
+  version: 21.2.0
+  title: ""
+  date: 2024-08-12T14:39:06.342Z
+- commits:
     - subject: Update all digest updates
       hash: d2c5ca2f00bb15cca3cb1751695f84ebf21f8c5e
       body: ""
