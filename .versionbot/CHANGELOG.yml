@@ -1,4 +1,16 @@
 - commits:
+    - subject: Update traefik Docker tag to v3.1.2
+      hash: 462be666a02d1a2dbc9baefde8e0afc679ba5a9f
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: Renovate Bot
+      nested: []
+  version: 21.2.1
+  title: ""
+  date: 2024-08-12T15:08:37.394Z
+- commits:
     - subject: Update linuxserver/nzbhydra2 Docker tag to v7.4.0
       hash: d39c9773ad6f623e061b7a7afce158bfab81fa3b
       body: ""
