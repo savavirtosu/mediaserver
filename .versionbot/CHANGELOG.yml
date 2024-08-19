@@ -1,4 +1,16 @@
 - commits:
+    - subject: Update linuxserver/plex Docker tag to v1.40.5
+      hash: 23dfada780be8d1e257f3bb9677e11b2970c6d97
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: Renovate Bot
+      nested: []
+  version: 21.2.2
+  title: ""
+  date: 2024-08-19T13:12:26.091Z
+- commits:
     - subject: Update traefik Docker tag to v3.1.2
       hash: 462be666a02d1a2dbc9baefde8e0afc679ba5a9f
       body: ""
