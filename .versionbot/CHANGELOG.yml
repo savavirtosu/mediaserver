@@ -1,4 +1,16 @@
 - commits:
+    - subject: Update all digest updates
+      hash: aeab094e5b97db5b55f8b799ed470b193a158b19
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: Renovate Bot
+      nested: []
+  version: 21.2.3
+  title: ""
+  date: 2024-08-19T13:37:28.644Z
+- commits:
     - subject: Update linuxserver/plex Docker tag to v1.40.5
       hash: 23dfada780be8d1e257f3bb9677e11b2970c6d97
       body: ""
