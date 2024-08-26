@@ -1,23 +1,17 @@
 {
   "extends": [
-    "config:recommended"
+    "config:recommended",
+    "config:best-practices",
+    ":automergeStableNonMajor",
+    ":automergePatch",
+    ":automergeDigest",
+    "group:allNonMajor"
   ],
   "commitBody": "Change-type: patch",
-  "packageRules": [
-    {
-      "matchUpdateTypes": [
-        "major",
-        "minor",
-        "patch"
-      ],
-      "commitBody": "Change-type: {{updateType}}"
-    },
-    {
-      "matchUpdateTypes": [
-        "patch",
-        "digest"
-      ],
-      "automerge": true
-    }
-  ]
+  "minor": {
+    "automerge": true
+  },
+  "pinDigest": {
+    "automerge": true
+  }
 }
