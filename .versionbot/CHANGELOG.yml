@@ -1,4 +1,16 @@
 - commits:
+    - subject: Update all digest updates
+      hash: d93b7870b09c83aa7b51762397f9a95a307a500d
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: Renovate Bot
+      nested: []
+  version: 21.3.1
+  title: ""
+  date: 2024-08-26T13:15:43.158Z
+- commits:
     - subject: Update linuxserver/nzbhydra2 Docker tag to v7.5.0
       hash: a85ab34c1919bc800b53281355ba0cb050c440de
       body: ""
