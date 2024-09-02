@@ -1,4 +1,16 @@
 - commits:
+    - subject: Update product-os/flowzone action to v17.4.30
+      hash: cfb619bfc54fb9db45119bf4bdc706eb4844e6c0
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: Renovate Bot
+      nested: []
+  version: 21.3.5
+  title: ""
+  date: 2024-09-02T13:14:39.763Z
+- commits:
     - subject: Update all non-major dependencies
       hash: 4c8f3219807dea4624be69c8ff9db65e1d467853
       body: ""
