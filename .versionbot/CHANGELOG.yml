@@ -1,4 +1,16 @@
 - commits:
+    - subject: Update all non-major dependencies
+      hash: ad5e6f2e13fef02a3ff7c192ee6c764ade3d0904
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: Renovate Bot
+      nested: []
+  version: 21.3.11
+  title: ""
+  date: 2024-09-16T13:15:33.335Z
+- commits:
     - subject: Update linuxserver/prowlarr Docker tag to v1.24.0
       hash: 21560610eacf0cdc368ce5ed2d5eefeb40690833
       body: ""
